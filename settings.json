@@ -1,0 +1,24 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+    "files.autoGuessEncoding": true,
+    "editor.fontFamily": "'Migu 1M',Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.autoClosingBrackets": false,
+    "editor.formatOnSave": true,
+    "markdown.preview.fontFamily": "'Migu 1M','Segoe WPC', 'Segoe UI', 'SFUIText-Light', 'HelveticaNeue-Light'",
+    "vsicons.presets.hideFolders": true,
+    "vsicons.presets.jsOfficial": true,
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "extensions.autoUpdate": true,
+    "extensions.ignoreRecommendations": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "clang-format.executable": "/usr/local/bin/clang-format",
+    "vscode_custom_css.imports": [
+        "file:///Users//koichi/.vscode/css/tree.css"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "julia.enableTelemetry": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnType": true
+}
